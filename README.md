@@ -1,4 +1,4 @@
-##🎓 Estudos e Projetos — CC50 Harvard Brasil## 
+## 🎓 Estudos e Projetos — CC50 Harvard Brasil ## 
 Este repositório é dedicado ao meu aprendizado e prática durante o curso CC50 - Ciência da Computação para Todos, oferecido pela Harvard no Brasil através da Estudar.org.
 Aqui você encontrará exemplos, exercícios resolvidos, projetos e anotações desenvolvidos ao longo do curso, utilizando a linguagem C.
 
