@@ -19,7 +19,7 @@ Aqui você encontrará exemplos, exercícios resolvidos, projetos e anotações 
 - 🚀 Projetos Finais e Desafios: atividades práticas para aplicação dos conceitos aprendidos.
 
 ## 🚀 Tecnologias Utilizadas ##
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C Language" width="30" style="vertical-align:middle;" /> C (linguagem principal)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C Language" width="20" style="vertical-align:middle;" /> 
 
 - CS50 Library (cs50.h)
 - Terminal (Windows WSL)
